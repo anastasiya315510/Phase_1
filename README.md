@@ -38,7 +38,7 @@ flask-hello-world/
 
    ```bash
    git clone https://github.com/anastasiya315510/Phase_1.git
-   cd flask-hello-world
+   cd Phase_1
     ```
 
 
