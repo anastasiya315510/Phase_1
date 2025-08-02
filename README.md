@@ -1,4 +1,5 @@
-# 🌍 Flask Hello World
+
+# 🌍 Phase_1 (Flask Hello World)
 
 **Flask Hello World** is a lightweight, containerized web application built with Flask and served via Gunicorn. It’s ideal as a beginner-friendly example of production-ready container deployment using Docker and Docker Compose.
 
@@ -19,7 +20,7 @@
 ## 🗂 Project Structure
 
 ```
-flask-hello-world/
+Phase_1/
 ├── app.py                # Main Flask application
 ├── Dockerfile            # Docker image build instructions
 ├── docker-compose.yml    # Compose service definition
